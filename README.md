@@ -14,7 +14,7 @@ The run command is `python -m vcbot` btw :)
 
 - `API_ID` : Get this value from my.telegram.org/apps
 - `API_HASH` : Get this value from my.telegram.org/apps
-- `SESSION` : visit [here](https://replit.com/@ayrahikari/pyrogram-session-maker) to obtain this value.
+- `SESSION` : visit [here](https://replit.com/proxybro/pyrogram-session-maker) to obtain this value.
 - `SUDO` : User IDs of users who have access to use the bot commands. Separate each with space.
 - `BOT_TOKEN` : (Optional) Get this value from [BotFather](https://telegram.dog/BotFather).
 
